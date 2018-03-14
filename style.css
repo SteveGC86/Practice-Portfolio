@@ -1,0 +1,21 @@
+:root{
+    --primary-text: #181818;
+}  
+
+.title{
+    font-family: Lato, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(19, 18, 18);
+    border: var(--primary-text) 1px solid;
+    text-shadow: 1px 1px 2px grey;
+    
+}
+h1{
+    font-family: papyrus;
+    font-size: 2em;
+    background: dodgerblue;
+}
+
+hr {
+    border: solid 1px;
+
+}
